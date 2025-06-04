@@ -43,7 +43,7 @@ Preliminary models predict prices **3–6 months into the future** with an accur
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/fuel-price-forecasting.git
+git clone https://github.com/Amaanish/fuel-price-forecasting.git
 ```
 
 Import into Google Colab 
