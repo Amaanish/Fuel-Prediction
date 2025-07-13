@@ -92,8 +92,8 @@ pip install scikit-optimize category_encoders yfinance joblib
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/Amaanish/fuel-price-forecasting.git
-cd fuel-price-forecasting
+git clone https://github.com/Amaanish/Fuel-Prediction.git
+cd Fuel-Prediction
 ```
 
 2. **For Google Colab** (Recommended):
