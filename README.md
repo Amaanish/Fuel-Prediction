@@ -141,9 +141,7 @@ The model automatically:
 - **Researchers**: Economic indicator correlation studies
 
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-*Last updated: July 5th 2025 | Model Version: V3*
+*Last updated: August 13th 2025 | Model Version: V3.1*
