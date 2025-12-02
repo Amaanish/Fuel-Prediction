@@ -226,4 +226,4 @@ Fuel-Prediction/
 
 ---
 
-**Last updated**: December 2024 | **Model Version**: V3.2
+**Last updated**: December 2025 | **Model Version**: V3.2
