@@ -217,7 +217,7 @@ XGBRegressor(
 
 ## What's New in V3.3
 
-✨ **Major Improvements:**
+ **Major Improvements:**
 
 1. **Enhanced Feature Engineering**
    - Extended to 6-month lag features for fuel, oil, and gold
